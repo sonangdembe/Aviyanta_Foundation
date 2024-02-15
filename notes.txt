@@ -1,0 +1,11 @@
+to create the branch
+- git checkout -b <branch name>
+
+to check the branch 
+- git branch // green one is the current one
+
+to switch the branch
+- git checkout <branch name>
+
+
+
