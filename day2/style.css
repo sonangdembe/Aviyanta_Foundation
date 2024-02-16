@@ -1,4 +1,35 @@
+:root{
+    --background:#047060;
+    --btn-background : #811124;
+    --b-ground: beige;
+}
+
+
 .btn{
-    color: blue;
-    background-color:pink;
+    color: var(--btn-background);
+    background-color:var(--background);
+}
+body{
+    background-color: var(--b-ground);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.input{
+    display: flex;
+    padding: 6px;
+    margin: 2px;
+    height: 30px;
+    width: 270px;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.demo{
+    border: 2px solid black;
+}
+
+button{
+    background-color: lightblue;
 }

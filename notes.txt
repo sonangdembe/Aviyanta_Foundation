@@ -1,0 +1,14 @@
+to create the branch
+- git checkout -b <branch name>
+
+to check the branch 
+- git branch // green one is the current one
+
+to switch the branch
+- git checkout <branch name>
+
+you have to pull before pushing the code after you make the branches
+- git pull origin <branch name>
+- git push origin master <branch name>
+
+
