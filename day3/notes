@@ -1,0 +1,69 @@
+
+// Leadership Session
+
+- Confident  *
+- Emotions
+- Unbiased
+- Communications
+- thanks to peoples   *
+- Vision/farsightness    *
+- Self awareness
+- Take what you need   *
+- Time management
+- Transparency And activities
+- Responsibility     *
+- Power
+- Acountable
+- New initiations
+- Connection to local people
+- Bringing the best outcome of 
+
+
+
+
+//-------------------------------ReactJs-------------------------------
+
+- React is the UI interaction of the users
+- It is the library not a framework, and created by facebook
+- It helps to loads faster, lightweighted
+- It is the building block of any applications
+- Helps to reuse user Interface element 
+- One components can contains another components
+
+Types of components
+- Functional Components 
+- Class Components
+
+Functional components types
+- stateless components
+- simply js functions
+
+Class components types
+- Statefull components
+- Class extends Components class
+
+How does react works?
+- React will work in virtual DOM and differenciates with the DOM
+
+Setup for the React
+1. To check the installions of the node
+- node -v
+
+2. To install react engine 
+- npm install -g create-react-app
+
+3. To create the folder called my-app
+- npx create-react-app my-app
+// npx is the nodeJs packages that conatins all the packages that you need for the 
+
+4. To start the components
+- npm start
+
+4. package.json :- it contains the name of your projects and contains the dependencies
+5. Package-lock.json :- just to match and run the programs
+6. src :- here you have to code and make file a
+7. Public :- for now just look at index.html 
+8. node_modules :- unwanted files
+
+
+
