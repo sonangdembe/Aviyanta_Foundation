@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "basic of Nodejs",
   "main": "server.js",
-  "type" : "module",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start" : "nodemon ./src/server.js"
+    "start": "nodemon ./src/server.js"
   },
   "author": "sona",
   "license": "ISC",
@@ -14,5 +14,8 @@
     "cors": "^2.8.5",
     "express": "^4.18.2",
     "nodemon": "^3.0.3"
+  },
+  "dependencies": {
+    "mongoose": "^8.1.3"
   }
 }
