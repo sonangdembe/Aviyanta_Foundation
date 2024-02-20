@@ -1,0 +1,29 @@
+- npm install -g create-react-app
+- npx create-react-app <folder name>
+
+Introductions of Node.js
+- It is not the programming languages and it is the server side Js
+- It is build in V8 runtime enviroment
+- 
+
+why NodeJs
+- because it is used for the embedded system and mobile developments too
+
+Single threades
+- all the programs run one by one in single threades but asynchronous keywords helps to 
+
+Step to creaate in node.js
+- creaate project folder -task-manager
+- initialized node  project - npm init
+{to get package.json}
+- install express - npm install express --save-dev { node_modules, package-lock.json}
+- install cors - npm install cors --save-dev
+- install nodemone - npm install nodemon --save-dev
+-Add "type : "module" i package.json
+
+- entty point : server.js
+-    - "start" : "nodemon"
+
+
+Controller/Routs
+- takes/accepts the request and send the responses 
